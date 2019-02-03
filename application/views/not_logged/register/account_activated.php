@@ -1,0 +1,1 @@
+<div>You account has been activated! You can now <a href="<?= base_url() ?>users/">login</a></div>

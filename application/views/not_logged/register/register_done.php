@@ -1,0 +1,1 @@
+<div>Your account has been registered <strong>but it is not active yet</strong>. To do that go to your email and follow the instructions.</div>
