@@ -1,4 +1,4 @@
-![lorabook-logo](https://i.imgur.com/MUJmbaO.png "LoraBook's logo" =250x)<br />
+![lorabook-logo](https://i.imgur.com/MUJmbaO.png =250x)<br />
   LoraBook is an application that has to be a social media (even though it may looks familiar) build with CodeIgniter, PHP, Bootstrap and CSS.
 
 # Project Status
